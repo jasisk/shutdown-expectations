@@ -1,0 +1,22 @@
+{
+  "name": "shutdown-expectations",
+  "version": "1.0.0",
+  "description": "quick demo app to validate expectations",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Jean-Charles Sisk <jeancharles@paypal.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^1.1.0",
+    "wreck": "^6.0.0"
+  },
+  "dependencies": {
+    "express": "^4.13.1",
+    "kraken-js": "^2.0.0-rc.1"
+  }
+}

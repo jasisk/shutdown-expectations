@@ -1,0 +1,11 @@
+{
+  "middleware": {
+    "appsec": {
+      "module": {
+        "arguments": [{
+          "csrf": false  
+        }]  
+      }  
+    }  
+  }
+}
